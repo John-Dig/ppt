@@ -1,0 +1,15 @@
+CREATION                                                                                                  
+
+jd:10:06$desktop$ yarn create vite ppt --template react-ts
+➤ YN0000: ┌ Resolution step
+➤ YN0000: └ Completed
+➤ YN0000: ┌ Fetch step
+➤ YN0013: │ create-vite@npm:4.3.1 can't be found in the cache and will be fetched from the remote regi
+➤ YN0000: └ Completed
+➤ YN0000: ┌ Link step
+➤ YN0000: │ ESM support for PnP uses the experimental loader API and is therefore experimental
+➤ YN0000: └ Completed
+➤ YN0000: Done with warnings in 0s 173ms
+
+
+Scaffolding project in /Users/jd/Desktop/ppt...
